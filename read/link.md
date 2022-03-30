@@ -27,7 +27,7 @@ has_children: true
 * https://github.com/cutefishos-ubuntu
 
 
-* https://github.com/makedeb
+
 
 
 * https://github.com/titenko/cutefish-ubuntu-imager
@@ -37,6 +37,11 @@ has_children: true
 
 * https://linuxcool.net/en/instructions/how-to-install-cutefish-desktop-in-ubuntu-and-derivatives/
 
+## makedeb
+
+* https://github.com/makedeb/makedeb
+* https://www.makedeb.org/
+* https://github.com/cutefishos-ubuntu/makedeb
 
 
 ## manjaro-cutefish
