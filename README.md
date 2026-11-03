@@ -2,7 +2,7 @@
 
 # 首頁
 
-> []() 探索筆記
+> [Cutefish](https://cutefish.org/) 探索筆記
 
 | Link | GitHub |
 | ---- | ------ |
