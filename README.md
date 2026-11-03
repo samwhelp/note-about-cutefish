@@ -2,6 +2,8 @@
 
 # 首頁
 
+> []() 探索筆記
+
 | Link | GitHub |
 | ---- | ------ |
 | [Cutefish Adjustment](https://samwhelp.github.io/cutefish-adjustment/) | [GitHub](https://github.com/samwhelp/cutefish-adjustment) |
