@@ -4,13 +4,14 @@ nav_order: 9000
 has_children: true
 ---
 
+
 # 連結
+
 
 ## cutefish
 
 * https://github.com/cutefishos
-* https://en.cutefishos.com/
-* https://cn.cutefishos.com/
+* https://cutefish.org/
 
 
 ## cutefish-ubuntu
@@ -53,3 +54,9 @@ has_children: true
 
 
 
+## Just the Docs
+
+| Link | GitHub |
+| ---- | ------ |
+| [Just the Docs](https://just-the-docs.com/) | [GitHub](https://github.com/just-the-docs/just-the-docs) |
+| [Demo](https://just-the-docs.github.io/just-the-docs-template/) | [GitHub](https://github.com/just-the-docs/just-the-docs-template) |
